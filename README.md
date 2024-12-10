@@ -5,7 +5,8 @@ An exercise to create a Python package, build it, test it, distribute it, and us
 
 # PyFunBox
 
-![Build Status](https://github.com/FinnickL/pyfunbox/actions/workflows/python-package.yml/badge.svg)
+[![log github events](https://github.com/software-students-fall2024/3-python-package-1/actions/workflows/event-logger.yml/badge.svg)](https://github.com/software-students-fall2024/3-python-package-1/actions/workflows/event-logger.yml)
+
 
 PyFunBox is a fun Python package that brings joy to developers with jokes, ASCII art, emojis, and random facts! This lighthearted package is designed to make coding sessions more enjoyable by offering humorous and entertaining features.
 
@@ -59,10 +60,7 @@ See the [example.py](example.py)
 Developers are welcome to contribute to this project. Follow these steps to set up your environment and contribute:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/FinnickL/pyfunbox.git
    cd pyfunbox
-   ```
 
 2. **Set up the virtual environment**:
    ```bash
@@ -106,7 +104,7 @@ To build, test, and distribute the package:
 ## Links
 
 - **PyPI Package**: [PyFunBox on PyPI](https://pypi.org/project/pyfunbox/)
-- **GitHub Repository**: [GitHub Repository](https://github.com/FinnickL/pyfunbox)
+- **GitHub Repository**: [GitHub Repository](https://github.com/software-students-fall2024/3-python-package-1/pyfunbox)
 
 ---
 
